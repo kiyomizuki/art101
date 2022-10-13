@@ -1,0 +1,13 @@
+h1 {
+  color: purple;
+  font-size: 200%;
+  font-family: fantasy;
+  margin-left: 10px;
+}
+
+p {
+  font-family: fantasy;
+  text-indent: 20px;
+  margin-left: 10px;
+  color: blue;
+}
