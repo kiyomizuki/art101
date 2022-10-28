@@ -1,0 +1,24 @@
+h1 {
+  color: purple;
+  font-size: 200%;
+  font-family: fantasy;
+  margin-left: 10px;
+}
+
+h2 {
+  color: purple;
+  font-size: 200%;
+  font-family: fantasy;
+  margin-left: 10px;
+}
+
+p {
+  font-family: fantasy;
+  margin-left: 10px;
+  color: blue;
+}
+
+div {
+  border: 5px outset purple;
+  background-color: #DEA9F4;
+}
